@@ -1,0 +1,3 @@
+[build.environment]
+  GIT_SUBMODULES = "false"
+  NODE_VERSION = "20"
